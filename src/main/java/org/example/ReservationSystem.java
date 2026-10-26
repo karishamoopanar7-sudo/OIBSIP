@@ -21,6 +21,7 @@ public class ReservationSystem {
         initDB();
         showLogin();
     }
+    //creating method called initDB
 
     static void initDB() {
         try {
